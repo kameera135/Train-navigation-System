@@ -1,0 +1,17 @@
+Some instructions. 
+1. Always use simple letters to implement the code.
+2. Some times give the instructions on how to answer the questions in the programme. 
+3. for the program, stations defined as a 2 letter word. So the name of the station explained in the database of programmes. 
+4. Add comments for the difficult rules. 
+5. All programs run as a question, answering system. Answers generate better solutions. 
+
+Q1 -> simple track with the same line.
+Q2 -> first define the track and then can change the track in some stations.
+Q3 -> has one track to 2 trains.
+Q4 -> can change the track in the switch stations. 
+Q5 -> change the direction at one point. Use the same track for 2 trains. 
+
+The number of trains for tracks are cannot change within the programs. Some programs implement to change tracks. 
+
+Some times warning masseges are showing. It is not harm for code. 
+Some rules are same in all 5 programs. 
